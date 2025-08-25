@@ -1,0 +1,81 @@
+{
+  "courseTitle": "SynthSpice Academy: The Ultimate AI Content Creator Course",
+  "curriculum": [
+    {
+      "title": "Module 1: The AI Creator's Foundation",
+      "description": "Understand the landscape of generative AI. We'll cover the core concepts, ethical considerations, and the powerful mindset needed to excel.",
+      "topics": [
+        "History and Future of Generative AI",
+        "Choosing Your Tools: Midjourney, Stable Diffusion, DALL-E 3",
+        "Ethical Frameworks for AI Art",
+        "Developing Your Unique Creative Voice"
+      ]
+    },
+    {
+      "title": "Module 2: Advanced Prompt Crafting",
+      "description": "This is where the magic happens. Go beyond basic prompts to command the AI, control styles, and produce jaw-dropping, consistent results.",
+      "topics": [
+        "The Anatomy of a 'Spicy' Prompt",
+        "Mastering Parameters: Aspect Ratios, Style Weights, Seeds",
+        "Techniques for Character Consistency",
+        "Negative Prompts: What Not to Generate"
+      ]
+    },
+    {
+      "title": "Module 3: The Art of Inpainting & Outpainting",
+      "description": "Learn to refine, correct, and expand your creations. Master the post-generation tools that separate the amateurs from the pros.",
+      "topics": [
+        "Fixing AI Flaws with Inpainting",
+        "Expanding Your Canvas with Outpainting",
+        "Combining Multiple Generations",
+        "Intro to Photoshop/Photopea for AI Compositing"
+      ]
+    },
+    {
+      "title": "Module 4: Building a Brand & Monetization",
+      "description": "Turn your passion into profit. We'll explore proven strategies for building an audience and monetizing your unique AI-generated content.",
+      "topics": [
+        "Finding Your Niche and Target Audience",
+        "Social Media Growth Hacks for AI Creators",
+        "Print-on-Demand and Digital Product Sales",
+        "Commission-Based Work and Freelancing"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Alex Chen, Digital Artist",
+      "quote": "I was stuck in a creative rut before this course. SynthSpice Academy didn't just teach me how to use AI, it taught me how to THINK like an AI artist. My engagement has skyrocketed!"
+    },
+    {
+      "name": "Jenna Rodriguez, Social Media Manager",
+      "quote": "The monetization module alone was worth the price. I went from making hobbyist art to landing my first two paid commission projects within a month of graduating."
+    },
+    {
+      "name": "Sam 'CyberVibe' Jones, Content Creator",
+      "quote": "The ethical framework section was a game-changer. I now create my edgy content with confidence, knowing I'm doing it responsibly. This course is essential for any serious AI creator."
+    },
+    {
+      "name": "Maria Garcia, Novelist & Worldbuilder",
+      "quote": "I use the techniques from this course to create concept art for my novels. It's like having an unlimited art budget. My world has never felt more alive."
+    }
+  ],
+  "faqs": [
+    {
+        "question": "Is this course beginner-friendly?",
+        "answer": "Absolutely! We start with the fundamentals, assuming you have no prior experience with AI image generation. All you need is a creative spirit and a willingness to learn."
+    },
+    {
+        "question": "What tools or software do I need?",
+        "answer": "The course primarily focuses on concepts and techniques applicable to most platforms. We will have specific examples using Midjourney, but the prompt crafting skills are transferable. You will need a subscription to at least one AI generation service to follow along with the projects."
+    },
+    {
+        "question": "How long do I have access to the course?",
+        "answer": "You get lifetime access! Pay once and receive all future updates, new modules, and additions to the prompt library at no extra cost."
+    },
+    {
+        "question": "What if I'm not satisfied with the course?",
+        "answer": "We offer a 30-day, no-questions-asked money-back guarantee. If you complete the first two modules and feel it's not for you, just send us an email for a full refund."
+    }
+  ]
+}
